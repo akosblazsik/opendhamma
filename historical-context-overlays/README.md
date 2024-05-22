@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Historical Context Overlays subproject is a part of the larger OpenDhamma initiative. It leverages Augmented Reality (AR) technology to provide immersive, educational experiences that contextualize the Dhamma within its historical and cultural background. By overlaying historical information onto real-world environments, this project aims to enhance understanding and engagement with key Buddhist sites and teachings.
+The Historical Context Overlays subproject is a part of the larger Opendhamma initiative. It leverages Augmented Reality (AR) technology to provide immersive, educational experiences that contextualize the Dhamma within its historical and cultural background. By overlaying historical information onto real-world environments, this project aims to enhance understanding and engagement with key Buddhist sites and teachings.
 
 ## Vision
 
